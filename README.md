@@ -4,7 +4,10 @@
 ![python-coding-mistakes](https://www.communityfirstcu.org/getmedia/a9346a2b-3007-461a-a728-2c532698b6d4/Blog-Hero_browser.jpg?width=1170&height=585&ext=.jpg)
 
 
-A Code To Restore The Browser To Its Original State (post-installation State) 
+###  A Code To Restore The Browser To Its Original State (post-installation State) 
+! This Code Can Be Used To Bypass The ChiGPT Limit 
+
+! Warning: By Executing The Above Code String, All The Data Of Your Browser Will Be Deleted And It Will Return To The State After Installation. Be Careful About Your Data. 
 
 ## Usage
 .
