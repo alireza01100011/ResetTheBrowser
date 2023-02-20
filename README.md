@@ -25,6 +25,6 @@ A Code To Restore The Browser To Its Original State (post-installation State)
 
 > The Second Method Of Use { Recommended For Professional Users }
   
-    * Close The Browser Whose Data You Want To Delete Completely 
+   * Close The Browser Whose Data You Want To Delete Completely 
   
   * Go To The Path Of The Files With CMD And Then Execute Them Once (If You Want To Reset Your Firefox Browser, Double-click On The Mozilla File And... )
